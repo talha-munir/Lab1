@@ -1,0 +1,18 @@
+Following features have been used in this lab 
+
+1. Table
+2. Ordered and Unordered List
+3. Paragraph
+4. Images
+5. CSS style sheet
+6. Anchors Tag
+7. Headings
+8. Navigation
+
+Following pages have been made in this lab
+
+1. Home
+2. Gallery
+3. About
+4. Contact_Me
+
